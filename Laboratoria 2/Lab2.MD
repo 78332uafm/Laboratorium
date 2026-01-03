@@ -21,13 +21,13 @@ DNS to system który tłumaczy nazwy adresowe (np. google.com) na adresy IP (np.
 2. **Dlaczego komputer przechowuje odwiedzone adresy**?
 Zachowywanie pamięci DNS pozwala na szybsze ładowanie często odwiedzanych stron, przeglądarka może używać cache DNS, żeby np. sugerować daną stronę w pasku wyszukiwania zanim użytkownik wpiszę cały adres. 
 
-![Screenshot DNS](/assets/dns.png "dns")
+![Screenshot DNS](./assets/dns.png "dns")
 
 # Zad 4
 
 > Zobacz pliki zad4.xml, zad4.dtd, zad4.xsd, "xml validate.png"
 
-![Screenshot xml validate](/assets/xml%20validate.png "xmlval")
+![Screenshot xml validate](./assets/xml%20validate.png "xmlval")
 
 
 
