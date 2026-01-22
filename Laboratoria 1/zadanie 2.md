@@ -1,2 +1,2 @@
-# Ipconfig (ucięte dane bo na prywatnym komputerze)
+# Ipconfig (dane na telefonie, bo prywatny komputer)
 
