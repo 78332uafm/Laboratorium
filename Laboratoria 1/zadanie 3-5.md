@@ -10,3 +10,13 @@
 
 ![whois fajnastrona.pl](./assets/zadanie43.png)
 ![whois fajnastrona122.pl](./assets/zadanie44.png)
+
+# Zadanie 5
+
+![51](./assets/zadanie51.png)
+![52](./assets/zadanie52.png)
+![53](./assets/zadanie53.png)
+![54](./assets/zadanie54.png)
+![55](./assets/zadanie55.png)
+![56](./assets/zadanie56.png)
+
