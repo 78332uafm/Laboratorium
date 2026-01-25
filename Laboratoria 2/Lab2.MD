@@ -55,6 +55,11 @@ Zachowywanie pamięci DNS pozwala na szybsze ładowanie często odwiedzanych str
 ![64](./assets/64.png)
 
 # Zad 7
+
+> Zobacz pliki stronaform.html, dane_osobowe.xml, dane_osobowe.xsd
+
+![71](./assets/71.png)
+
 # Zad 8
 
 ![81](./assets/81.png)
