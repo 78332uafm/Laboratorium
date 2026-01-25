@@ -12,7 +12,16 @@ Wynik: Teoretyczny czas potrzebny do pobrania pliku wraz z narzutami wyniesie 82
 
 # Zad 2 
 
-tbd
+T586B
+1 - 3
+2 - 6
+3 - 1
+4 - 7
+5 - 8
+6 -2 
+7 - 4
+8 - 5
+
 
 # Zad 3
 
