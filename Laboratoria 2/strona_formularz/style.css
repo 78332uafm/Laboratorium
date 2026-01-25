@@ -1,0 +1,53 @@
+/* style.css */
+
+body {
+    font-family: Cambria, serif;
+    font-size: 16px;
+    background-color: whitesmoke;
+    margin: 25px 50px 50px 100px;
+}
+
+header {
+    background-color: gray;
+    color: wheat;
+    font-size: 2em;
+    text-align: center;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+main {
+    padding: 2em;
+    font-style: italic;
+}
+
+main ul {
+    list-style: none;
+    padding: 1em;
+    display: flex;
+    justify-content: space-around;
+    font-weight: bold;
+}
+
+aside {
+    display: flex;
+    justify-content: flex-end;
+}
+
+aside img {
+    width: 500px;
+    height: auto;
+}
+
+footer {
+    background-color: darkgray;
+    padding: 2 em;
+}
+
+footer a {
+    text-decoration: none;
+    font-size: 1.6em;
+}

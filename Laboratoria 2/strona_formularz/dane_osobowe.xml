@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dane>
+    <osoba id="1">
+        <imie>Jan</imie>
+        <nazwisko>Kowalski</nazwisko>
+        <sex>Male</sex>
+        <wiek>25</wiek>
+    </osoba>
+</dane>
