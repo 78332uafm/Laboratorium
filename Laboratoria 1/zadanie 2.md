@@ -1,2 +1,3 @@
-# Ipconfig (dane na telefonie, bo prywatny komputer)
+# Ipconfig 
 
+![21](./assets/21.png)
