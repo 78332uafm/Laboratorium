@@ -38,6 +38,10 @@ Zachowywanie pamięci DNS pozwala na szybsze ładowanie często odwiedzanych str
 
 ![Screenshot xml validate](./assets/xml%20validate.png "xmlval")
 
+# Zad 5
+## Strona html + css (pliki osobno)
+![strona html i css](./assets/lab5zad5strona.png)
+
 
 
 
