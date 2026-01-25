@@ -42,6 +42,18 @@ Zachowywanie pamięci DNS pozwala na szybsze ładowanie często odwiedzanych str
 ## Strona html + css (pliki osobno)
 ![strona html i css](./assets/lab5zad5strona.png)
 
+# Zad 6
+
+## Odpowiedzi na pytania
+1. Parametry w metodzie GET znajdują się w adresie URL po znaku "?"
+2. Parametry nien są szyfrowane (widoczne w URL), dopiero HTTPS je szyfruje
+3. GET przesyła dane w URL, a POST w body żądania HTTP
+
+![61](./assets/61.png)
+![62](./assets/62.png)
+![63](./assets/63.png)
+![64](./assets/64.png)
+
 
 
 
