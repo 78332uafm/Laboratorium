@@ -54,6 +54,10 @@ Zachowywanie pamięci DNS pozwala na szybsze ładowanie często odwiedzanych str
 ![63](./assets/63.png)
 ![64](./assets/64.png)
 
+# Zad 7
+# Zad 8
 
-
-
+![81](./assets/81.png)
+![82](./assets/82.png)
+![83](./assets/83.png)
+![84](./assets/84.png)
